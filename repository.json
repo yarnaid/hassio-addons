@@ -1,5 +1,5 @@
 {
-  "name": "Jonathan's Home Assistant Add-Ons",
-  "url": "https://github.com/bradsjm/hassio-addons",
-  "maintainer": "Jonathan Bradshaw <jb@nrgup.net>"
+  "name": "Jonathan's Home Assistant Add-Ons (fork)",
+  "url": "https://github.com/yarnaid/hassio-addons",
+  "maintainer": "example.com"
 }
